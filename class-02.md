@@ -21,4 +21,4 @@ Can you explain what is happening in the following scenario if these commands an
 <br> mkdir new-project= making a new directory named new-projects
 <br> touch new-project/newfile.md= create new file new-project/newfile.md
 <br> cd..= change directory
-<br> 
+<br> ls projects/new-project= list computer file for file projects/new project
