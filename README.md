@@ -5,7 +5,7 @@
 ## toc
 -[102 Class 1](class-01.md)
 <br> -[102 Class 2](class-02.md)
-
+<br> -[reading notes]
 
 
 ### The growth mindset is a concept that believes that our ability to accomplish things can be heightened through  perserverence, intelligence, and mindfulness.
